@@ -1,1 +1,1 @@
-OpenWrtLi
+OpenWrt
